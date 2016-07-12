@@ -1,0 +1,12 @@
+
+BF          o o o                                                                             EB
+AD         IIIIIII              IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII               CA
+AD                      o 1 o          I     I                   EBBBBBBBBBBBBBF     o o o o  CA
+AD                     IIIIIII         I     I                   CAAAAAAAAAAAAAD    o o o o o CA
+AD                                     I     I             o o   CAAAAAAAAAAAAAHF    o o o o  CA
+AD                    2   1        2               2      IIIII  CAAAAAAAAAAAAAAD   o o o o o CA
+AD          o            IIIII                                   CAAAAAAAAAAAAAAHF   IIIIIII  CA
+AD         III                        1    2    1        2       CAAAAAAAAAAAAAAAD  o o o o o CA
+AD                 1          1      IIIIIIIIIIIII               CAAAAAAAAAAAAAAAHF  o o o o  CA
+AD      1       EBBBBBBBBBBBBBBBF     o o o o o o    1        *  CAAAAAAAAAAAAAAAAD o o o o o CA
+AHBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAHBBBBBBBBBBBGA
