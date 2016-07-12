@@ -1,4 +1,4 @@
-# My Super Mario Java Game
+# My Super Mario Java 2D Game
 
 This is a full screen 2D Java game like super mario with some basic creatures and maps.
 
